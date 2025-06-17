@@ -71,7 +71,7 @@
   <p>Interface moderna com dark mode, animações e tradução multilíngue.</p>
   <p>
     🔗 <a href="(https://github.com/anninhaschmid/anninhaschmid.github.io/blob/main/index.html)" target="_blank" rel="noopener noreferrer">Código</a> •
-    🌍 <a href="https://github.com/anninhaschmid/anninhaschmid.github.io)" target="_blank" rel="noopener noreferrer">Site</a>
+    🌍 <a href="https://anninhaschmid.github.io/" target="_blank" rel="noopener noreferrer">Site</a>
   </p>
 </article>
 </section>
