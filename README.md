@@ -11,8 +11,8 @@
   <a href="https://anninhaschmid.github.io/"="_blank" class="badge-link" aria-label="Portfólio">
     <img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
   </a>
-  <a href="https://linkedin.com/in/annaschmidt-dev" target="_blank" class="badge-link" aria-label="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/annaschmidt-dev" target="_blank" class="badge-link" aria-label="Linkedln">
+    <img src="https://img.shields.io/badge/-Linkedln-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedln" />
   </a>
   <a href="mailto:annaschmidt@email.com" class="badge-link" aria-label="Email">
     <img src="https://img.shields.io/badge/-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contato" />
