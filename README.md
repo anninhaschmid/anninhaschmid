@@ -59,7 +59,7 @@
   
   <article class="project">
    <h3>💧 Sistema de troca de habilidades – Natal/RN</h3>
-<p>Solução Full Stack para cadastramento de usuários e empresas, adicionar habilidades e gestão administrativa.</p>
+<p>Solução para cadastramento de usuários e empresas, adicionar habilidades e gestão administrativa.</p>
 <p>
   🔗 <a href="https://github.com/anninhaschmid/SKILLSWAP.github.io" target="_blank" rel="noopener noreferrer">Repositório</a> •
   🌐 <a href="https://skillswap.mysoftwares.com.br/" target="_blank" rel="noopener noreferrer">Visualizar</a>
