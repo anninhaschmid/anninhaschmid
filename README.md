@@ -8,7 +8,7 @@
   JavaScript • React • Node.js • PostgreSQL • UI/UX • Arquitetura Front-End
 </p>
 <div class="badge-links">
-  <a href=https://anninhaschmid.github.io/="_blank" class="badge-link" aria-label="Portfólio">
+  <a href="https://anninhaschmid.github.io/="_blank" class="badge-link" aria-label="Portfólio">
     <img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
   </a>
   <a href="https://linkedin.com/in/annaschmidt-dev" target="_blank" class="badge-link" aria-label="LinkedIn">
