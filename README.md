@@ -85,7 +85,7 @@
   <ul>
     <li>🌐 Site pessoal: <a href="https://anninhaschmid.github.io/" target="_blank" rel="noopener noreferrer">anninhaschmid.github.io</a></li>
     <li>💼 LinkedIn: <a href="https://linkedin.com/in/annaschmidt-dev" target="_blank" rel="noopener noreferrer">linkedin.com/in/annaschmidt-dev</a></li>
-    <li>📧 Email: <a href="mailto:annamcschmidt@gmail.com">annamcschmidt@gmail.com</a></li>
+    <li>📧 Email: <a href="mailto:annamcschmidt@gmail.com">annamcshmidt@gmail.com</a></li>
   </ul>
 </section>
 
