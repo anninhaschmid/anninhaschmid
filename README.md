@@ -62,7 +62,7 @@
 <p>Solução para cadastramento de usuários e empresas, adicionar habilidades e gestão administrativa.</p>
 <p>
   🔗 <a href="https://github.com/anninhaschmid/SKILLSWAP.github.io" target="_blank" rel="noopener noreferrer">Repositório</a> •
-  🌐 <a href="https://skillswap.mysoftwares.com.br/" target="_blank" rel="noopener noreferrer">Visualizar</a>
+  🌐 <a href="https://skillswap.mysoftwares.com.br/" target="_blank" rel="noopener noreferrer">SITE</a>
 </p>
 </article>
 
@@ -71,7 +71,7 @@
   <p>Interface moderna com dark mode, animações e tradução multilíngue.</p>
   <p>
     🔗 <a href="https://github.com/anninhaschmid/anninhaschmid.github.io/blob/main/index.html" target="_blank" rel="noopener noreferrer">Código</a> •
-    🌍 <a href="https://anninhaschmid.github.io/" target="_blank" rel="noopener noreferrer">Site</a>
+    🌍 <a href="https://anninhaschmid.github.io/" target="_blank" rel="noopener noreferrer">SITE</a>
   </p>
 </article>
 </section>
