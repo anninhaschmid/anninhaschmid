@@ -30,7 +30,7 @@
 <section class="content-section" aria-labelledby="sobre-mim">
   <h2 id="sobre-mim">👩‍💼 SOBRE MIM</h2>
   <p>
-    Sou desenvolvedora com sólida experiência em <strong>desenvolvimento de aplicações web modernas</strong>, com foco em <strong>performance, acessibilidade e usabilidade</strong>. Tenho paixão por construir interfaces elegantes que otimizam a experiência do usuário e resolvem problemas reais de negócios.
+    Sou desenvolvedora com experiência em <strong>desenvolvimento de aplicações web modernas</strong>, com foco em <strong>performance, acessibilidade e usabilidade</strong>. Tenho paixão por construir interfaces elegantes que otimizam a experiência do usuário e resolvem problemas reais de negócios.
   </p>
   <ul>
     <li>💼 Atuação como Dev Full Stack com foco em Front-End.</li>
