@@ -58,11 +58,11 @@
   <h2 id="projetos">🧠 Projetos Relevantes</h2>
   
   <article class="project">
-    <h3>💧 Sistema de Monitoramento de Lagoas de Captação – Natal/RN</h3>
-    <p>Solução Full Stack para cadastramento, vistoria e gestão ambiental.</p>
+    <h3>💧 Sistema de troca de habilidades – Natal/RN</h3>
+    <p>Solução Full Stack para cadastramento de usuarios e empresas, adicionar habilidades e gestão adiministrativa.</p>
     <p>
-      🔗 <a href="https://github.com/annaschmidt-dev/sistema-lagoas" target="_blank" rel="noopener noreferrer">Repositório</a> •
-      🌐 <a href="https://annaschmidt.dev/lagoas" target="_blank" rel="noopener noreferrer">Visualizar</a>
+      🔗 <a href="(https://github.com/anninhaschmid/SKILLSWAP.github.io)" target="_blank" rel="noopener noreferrer">Repositório</a> •
+      🌐 <a href="https://annaschmidt.dev/skillswap" target="_blank" rel="noopener noreferrer">Visualizar</a>
     </p>
   </article>
   
