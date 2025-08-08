@@ -14,7 +14,7 @@
   <a href="https://linkedin.com/in/annaschmidt-dev" target="_blank" class="badge-link" aria-label="Linkedln">
     <img src="https://img.shields.io/badge/-Linkedln-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedln" />
   </a>
-  <a href="mailto:annaschmidt@email.com" class="badge-link" aria-label="Email">
+  <a href="mailto:annamcshmidt@gmail.com" class="badge-link" aria-label="Email">
     <img src="https://img.shields.io/badge/-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contato" />
   </a>
   <!-- Novos botões adicionados -->
