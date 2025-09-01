@@ -8,6 +8,7 @@
   JavaScript • React • Node.js • PostgreSQL • UI/UX • Arquitetura Front-End
 </p>
 <div class="badge-links">
+    <a href="https://docs.google.com/document/d/172tiXn2e9yfxl11q_VWfeirHqJtiieSK/edit?usp=sharing&ouid=100382330270943917177&rtpof=true&sd=true" target="_blank" class="badge-link" aria-label="CV">
   <a href="https://linkedin.com/in/annaschmidt-dev" target="_blank" class="badge-link" aria-label="Linkedln">
     <img src="https://img.shields.io/badge/-Linkedln-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedln" />
   </a>
