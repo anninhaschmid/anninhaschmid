@@ -2,10 +2,10 @@
   Anna Schmidt 👩‍💻
 </h1>
 <p style="text-align:center; font-weight:600; font-size:1.2rem; color:#e0c3fc; margin-top:0; margin-bottom:1.5rem;">
-  Desenvolvedora Front-End, design centrado no usuário e soluções digitais.
+  Desenvolvedora Full Stack, design centrado no usuário e soluções digitais.
 </p>
 <p style="text-align:center; font-style:italic; color:#cbb8ff; font-size:1rem; margin-top:0; margin-bottom:3rem;">
-  JavaScript • React • Node.js • PostgreSQL • UI/UX • Arquitetura Front-End
+  JavaScript • React • Node.js • Java • Go • Django • Git • AWS
 </p>
 <div class="badge-links">
     <a href="https://docs.google.com/document/d/172tiXn2e9yfxl11q_VWfeirHqJtiieSK/edit?usp=sharing&ouid=100382330270943917177&rtpof=true&sd=true" target="_blank" class="badge-link" aria-label="CV">
@@ -28,7 +28,7 @@
 <section class="content-section" aria-labelledby="sobre-mim">
   <h2 id="sobre-mim">👩‍💼 SOBRE MIM</h2>
   <p>
-    Sou desenvolvedora front end com experiência em <strong>desenvolvimento de aplicações web modernas</strong>, com foco em <strong>performance, acessibilidade e usabilidade</strong>. Tenho paixão por construir interfaces elegantes que otimizam a experiência do usuário e resolvem problemas reais de negócios.
+    Sou desenvolvedora Full Stack com experiência em <strong>desenvolvimento de aplicações web modernas</strong>, com foco em <strong>performance, acessibilidade e usabilidade</strong>. Tenho paixão por construir interfaces elegantes que otimizam a experiência do usuário e resolvem problemas reais de negócios.
   </p>
   <ul>
     <li>💼 Atuação como Dev Full Stack com foco em Front-End.</li>
@@ -45,8 +45,7 @@
     <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt=" CSS"/>
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   </div>
 </section>
