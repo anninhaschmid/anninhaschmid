@@ -5,7 +5,9 @@
   Desenvolvedora Full Stack, design centrado no usuário e soluções digitais.
 </p>
 <p style="text-align:center; font-style:italic; color:#cbb8ff; font-size:1rem; margin-top:0; margin-bottom:3rem;">
-  JavaScript • React • Node.js • Java • Go • Django • Git • AWS
+  JavaScript • React • Node.js  •  • Django • Git • AWS
+  Frameworks: Java  • Python  • Html  • CSS  • Script   •  Go
+  Ferramentas : Vscode  • Vercel  • GitHub  •  AI Studio  • Roadmap  • Stich WIthGoogle
 </p>
 <div class="badge-links">
     <a href="https://docs.google.com/document/d/172tiXn2e9yfxl11q_VWfeirHqJtiieSK/edit?usp=sharing&ouid=100382330270943917177&rtpof=true&sd=true" target="_blank" class="badge-link" aria-label="CV">
