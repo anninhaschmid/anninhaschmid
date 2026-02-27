@@ -21,9 +21,6 @@
   <a href="https://anninhaschmid.github.io/" target="_blank" class="badge-link" aria-label="Site Pessoal">
     <img src="https://img.shields.io/badge/-Site_Pessoal-4A90E2?style=for-the-badge&logo=github&logoColor=white" alt="Site Pessoal" />
   </a>
-  <a href="https://skillswap.mysoftwares.com.br/" target="_blank" class="badge-link" aria-label="Repositório Skillswap">
-    <img src="https://img.shields.io/badge/-GitHub_SKILLSWAP-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub SKILLSWAP" />
-  </a>
 </div>
 
 <!-- SOBRE MIM -->
