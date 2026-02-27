@@ -54,9 +54,7 @@
 <section class="content-section" aria-labelledby="projetos">
   <h2 id="projetos">🧠 Projetos Relevantes</h2>
   
-  <article class="project">
-  🔗 <a href="https://github.com/anninhaschmid/SKILLSWAP.github.io" target="_blank" rel="noopener noreferrer">Repositório</a> 
-<article class="project">
+  <article class="project"> 
   <h3>🧭 Portfólio Profissional Interativo</h3>
   <p>Interface moderna com dark mode, animações e tradução multilíngue.</p>
   <p>
