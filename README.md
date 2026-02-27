@@ -55,14 +55,7 @@
   <h2 id="projetos">🧠 Projetos Relevantes</h2>
   
   <article class="project">
-   <h3>💧 Sistema de troca de habilidades – Natal/RN</h3>
-<p>Solução para cadastramento de usuários e empresas, adicionar habilidades e gestão administrativa.</p>
-<p>
-  🔗 <a href="https://github.com/anninhaschmid/SKILLSWAP.github.io" target="_blank" rel="noopener noreferrer">Repositório</a> •
-  🌐 <a href="https://skillswap.mysoftwares.com.br/" target="_blank" rel="noopener noreferrer">SITE</a>
-</p>
-</article>
-
+  🔗 <a href="https://github.com/anninhaschmid/SKILLSWAP.github.io" target="_blank" rel="noopener noreferrer">Repositório</a> 
 <article class="project">
   <h3>🧭 Portfólio Profissional Interativo</h3>
   <p>Interface moderna com dark mode, animações e tradução multilíngue.</p>
