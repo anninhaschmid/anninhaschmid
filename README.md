@@ -2,7 +2,7 @@
   Anna Schmidt 👩‍💻
 </h1>
 <p style="text-align:center; font-weight:600; font-size:1.2rem; color:#e0c3fc; margin-top:0; margin-bottom:1.5rem;">
-  Desenvolvedora Full Stack, design centrado no usuário e soluções digitais.
+  Desenvolvedora Full Stack Web, design centrado no usuário e soluções digitais.
 </p>
 <p style="text-align:center; font-style:italic; color:#cbb8ff; font-size:1rem; margin-top:0; margin-bottom:3rem;">
   JavaScript • React • Node.js  • java • python •  Git 
