@@ -6,8 +6,11 @@
 </p>
 <p style="text-align:center; font-style:italic; color:#cbb8ff; font-size:1rem; margin-top:0; margin-bottom:3rem;">
   JavaScript • React • Node.js   • python 
+ 
   Frameworks: Html  • CSS  •react  •  Go
+  
   Ferramentas : Cursor  • Vercel  • GitHub  •  AI Studio  • Roadmap  •   Notion
+ 
   Banco de Dados: MySQL
 </p>
 <div class="badge-links">
