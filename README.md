@@ -7,7 +7,7 @@
 <p style="text-align:center; font-style:italic; color:#cbb8ff; font-size:1rem; margin-top:0; margin-bottom:3rem;">
   JavaScript • React • Node.js  • javascript • python 
   Frameworks: Html  • CSS  •react  •  Go
-  Ferramentas : Vscode  • Vercel  • GitHub  •  AI Studio  • Roadmap  
+  Ferramentas : Cursor  • Vercel  • GitHub  •  AI Studio  • Roadmap  •   Notion
 </p>
 <div class="badge-links">
     <a href="https://docs.google.com/document/d/172tiXn2e9yfxl11q_VWfeirHqJtiieSK/edit?usp=sharing&ouid=100382330270943917177&rtpof=true&sd=true" target="_blank" class="badge-link" aria-label="CV">
