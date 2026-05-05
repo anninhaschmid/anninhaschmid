@@ -11,7 +11,7 @@
   <br>
   Ferramentas: Cursor • Vercel • GitHub • Figma  
   <br>
-  Banco de Dados: MySQL
+  Banco de Dados: JavaScript
 </p>
 
 <div class="badge-links" style="text-align:center;">
