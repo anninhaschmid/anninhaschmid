@@ -64,8 +64,8 @@
     <h3>🎯 NeuroFocus</h3>
     <p>Aplicação focada em produtividade e gerenciamento de tempo, projetada para auxiliar na concentração e organização de tarefas.</p>
     <p>
-      🌐 <a href="https://neurofocus.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a> • 
-      🛠️ <em>React + Vercel</em>
+      🌐 <a href="https://neurofocus.vercel.app/" target="_blank" rel="noopener noreferrer">site</a> • 
+      🛠️ <em>HMTL + CSS + JAVASCRIPT + Vercel</em>
     </p>
   </article>
 
