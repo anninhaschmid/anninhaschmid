@@ -1,7 +1,7 @@
 <h1 align="center">Anna Schmidt 👩‍💻</h1>
 
 <p align="center">
-  <strong>Desenvolvedora Full Stack · Foco em Back-End</strong><br/>
+  <strong>Desenvolvedora Full Stack Web· Foco em Back-End</strong><br/>
   <em>Node.js · Java · JavaScript · Python · HTML · CSS · React · Next.js</em>
 </p>
 
