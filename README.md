@@ -24,7 +24,7 @@
   <a href="mailto:annamcshmidt@gmail.com" class="badge-link" aria-label="Email">
     <img src="https://img.shields.io/badge/-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contato" />
   </a>
-  <a href="https://anninhaschmid.github.io/" target="_blank" class="badge-link" aria-label="Site Pessoal">
+  <a href=https://anninhaschmid.vercel.app/"" target="_blank" class="badge-link" aria-label="Site Pessoal">
     <img src="https://img.shields.io/badge/-Site_Pessoal-4A90E2?style=for-the-badge&logo=github&logoColor=white" alt="Site Pessoal" />
   </a>
 </div>
