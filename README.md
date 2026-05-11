@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://anninhaschmid.github.io/">
+  <a href="https://anninhaschmid.vercel.app/">
     <img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/anna-schmidt-790b812b3">
